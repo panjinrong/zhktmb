@@ -127,4 +127,7 @@
   content: "\E621";
   color: #DDDFE1;
 }
+.el-rate__icon.hover{
+  transform: scale(1)
+}
 </style>
